@@ -22,3 +22,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/clock-animation-app.git
+
+###video of project |
+https://drive.google.com/file/d/1gb3vmD1AipAswgDbhAPrqxHSpLm8MEXm/view?usp=drive_link
